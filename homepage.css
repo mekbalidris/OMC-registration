@@ -1,0 +1,97 @@
+body{
+  text-indent: 14px;
+  background-color: black;
+  }
+
+  .red { color: red; }
+  .yellow { color: yellow; }
+  .green { color: green; }
+  .white {color : white}
+
+  a{
+    color:white;
+  }
+  a:hover{
+    color:green;
+  }
+  p:hover .highlit{
+    color:green;
+  }
+
+  #hello{
+    color: white;
+    position: absolute;
+    top: 15%;
+    left:20%;
+    text-decoration: underline;
+    font-size:xxx-large;
+  
+  }
+  #ig{
+    color: white;
+    position: absolute;
+    top: 180%;
+    left:35%;
+    font-size:40px;
+    max-width: 1000px;
+  }
+
+  #start{
+    color: white;
+    position: absolute;
+    top: 105%;
+    left:13%;
+    font-size:40px;
+    max-width: 1000px;
+
+  }
+
+  #text{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left:13%;
+    font-size:40px;
+    max-width: 1000px;
+  
+  }
+  #intro{
+    color: white;
+    position: absolute;
+    top: 90%;
+    left:13%;
+    font-size:40px;
+    max-width: 1000px;
+  
+  }
+  #first{
+    position: absolute;
+    top: 115%;
+    left:75%;
+    width:24%;
+  }
+  
+  #second{
+    position: absolute;
+    top: 115%;
+    left:33%;
+    width:35%;
+  }
+  
+  #third{
+    position: absolute;
+    top: 115%;
+    left:4%;
+    width:23%;
+  }
+  
+  
+  #omclogo{
+      position:absolute;
+      top: 0%; 
+      left: 45%;
+      height: 80px;
+  
+    }
+  
+  

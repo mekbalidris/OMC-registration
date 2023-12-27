@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+}
+
+.registration-form {
+    width: 400px; 
+    margin-left: 20px;
+}
+
+#reg{
+position: absolute;
+top: 10%;
+left:45%;
+height: 80%;
+border-radius: 20px;
+
+}
+#logo{
+    position: absolute;
+    top: 28%;
+    left:61%;
+    height: 10%;
+    }
+
+input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}

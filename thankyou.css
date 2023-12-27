@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+#text{
+    color:green;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#omclogo{
+    position:absolute;
+    top: 26.5%; 
+    left: 45%;
+    height: 150px;
+
+  }
